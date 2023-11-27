@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+You can find more from me here:
+
+- 👀 https://khannover.github.io/index.md.html  
+  (DEMO of [markdeep-slides-autoslider-plugin](https://github.com/khannover/markdeep-slides-autoslider-plugin))
+- 🐋 https://hub.docker.com/repositories/khannover
+
 <!--
 **khannover/khannover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
