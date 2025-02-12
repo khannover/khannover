@@ -4,8 +4,7 @@ You can find more from me here:
 
 - 👀 https://khannover.github.io/index.md.html  
   (DEMO of [markdeep-slides-autoslider-plugin](https://github.com/khannover/markdeep-slides-autoslider-plugin))
-- 👀 https://blog.hannover38.de  
-  (DEMO of [niceblog](https://github.com/khannover/niceblog))
+- 👀 https://blog.hannover38.de    
 - 🐋 https://hub.docker.com/repositories/khannover
 
 <!--
